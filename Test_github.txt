@@ -3,9 +3,6 @@ Sixth time in Github
 Third time in Github
 Fourth time in Github
 Fifth time in Github
-<<<<<<< HEAD
 Sixth time in Github
 seventh time in Github
 Eighth time in Github
-=======
->>>>>>> parent of ac1a990... 3rd commit
